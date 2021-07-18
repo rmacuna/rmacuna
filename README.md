@@ -40,4 +40,8 @@ I am a software engineer from Colombia.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com/rmacuna/cracking-interviews-js/issues/2) in [rmacuna/cracking-interviews-js](https://github.com/rmacuna/cracking-interviews-js)
+2. ❗️ Opened issue [#1](https://github.com/rmacuna/cracking-interviews-js/issues/1) in [rmacuna/cracking-interviews-js](https://github.com/rmacuna/cracking-interviews-js)
+3. 🗣 Commented on [#288](https://github.com/apollographql/apollo-server/issues/288) in [apollographql/apollo-server](https://github.com/apollographql/apollo-server)
+<!--END_SECTION:activity-->
 
