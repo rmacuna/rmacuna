@@ -36,3 +36,10 @@ I am a software engineer from Colombia.
 
 <br>
 <br>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
