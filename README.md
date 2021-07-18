@@ -41,5 +41,3 @@ I am a software engineer from Colombia.
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
