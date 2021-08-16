@@ -40,8 +40,8 @@ I am a software engineer from Colombia.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/rmacuna/facebook-heroes/issues/6) in [rmacuna/facebook-heroes](https://github.com/rmacuna/facebook-heroes)
-2. ❗️ Closed issue [#19](https://github.com/rmacuna/facebook-heroes/issues/19) in [rmacuna/facebook-heroes](https://github.com/rmacuna/facebook-heroes)
-3. ❗️ Closed issue [#16](https://github.com/rmacuna/facebook-heroes/issues/16) in [rmacuna/facebook-heroes](https://github.com/rmacuna/facebook-heroes)
+1. ❗️ Closed issue [#15](https://github.com/rmacuna/facebook-heroes/issues/15) in [rmacuna/facebook-heroes](https://github.com/rmacuna/facebook-heroes)
+2. ❗️ Closed issue [#11](https://github.com/rmacuna/facebook-heroes/issues/11) in [rmacuna/facebook-heroes](https://github.com/rmacuna/facebook-heroes)
+3. ❗️ Closed issue [#4](https://github.com/rmacuna/facebook-heroes/issues/4) in [rmacuna/facebook-heroes](https://github.com/rmacuna/facebook-heroes)
 <!--END_SECTION:activity-->
 
