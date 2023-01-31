@@ -16,9 +16,6 @@ I am a software engineer from Colombia.
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Social network and a couple of OS ideas.
-- 🌱 I’m currently learning coding interviews and NextJS
-
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rmacuna/)
